@@ -1,6 +1,6 @@
 # My-Portfolio
 
-**My Portfolio it's all about Me, I Do this Project During my Full Stack Development ⭐💻**
+**My Portfolio it's all about Me, I Do this Project During my web Development ⭐💻**
 
 ## 👩‍💻 Tech Stack Used
 
@@ -10,4 +10,4 @@
   
 - Javascript
 
-## <p>Live: <a style=" text-decoration:none;" href="https://sirisha-portfolio06.netlify.app">https://sirisha-portfolio06.netlify.app</a></p>
+## <p>Live: <a style=" text-decoration:none;" href="https://vamsisriram.netlify.app">https://vamsisriram.netlify.app</a></p>
